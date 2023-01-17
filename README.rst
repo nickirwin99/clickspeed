@@ -1,48 +1,7 @@
-Template
-========
-
-.. image:: http://unmaintained.tech/badge.svg
-  :target: http://unmaintained.tech
-  :alt: No Maintenance Intended
-
-*Note: This template is not maintained anymore,
-use the* `tutorial <https://github.com/readthedocs/tutorial-template/>`_ *instead.*
-
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
-
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
---------
-
-- Be awesome
-- Make things faster
-
-Installation
-------------
-
-Install $project by running:
-
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
+## Clicks per Second Test
+### Introduction
+It is a simple and most reliable way to caculates clicks per second speed which is a very relevant statistic for gamers. The [Clicks per Second Test](https://www.clickspeedtester.com) counts the total number of clicks you make in given time period and calculates your CPS speed for free.
+### Installation
+Installation is not required as the CPS Test can be used directly from the web browsers like Google Chrome, Firefox, Edge etc.
+### Usage
+Start the test by clicking the button that says 'Click to Start'. Once the timer gets activated, you have click the button repeatedly and as fast you can to calculates the clicks per second.&nbsp;
